@@ -13,7 +13,4 @@ fun main() {
     println(pila1)
     println(pila2)
 
-  // SI HAY POP YA NO HAY STOP LIFO
-
-
 }

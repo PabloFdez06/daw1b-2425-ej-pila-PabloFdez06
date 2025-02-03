@@ -1,3 +1,5 @@
+// A
+
 class Pila<T>(val desc: String, private val patron: String = "") {
     private val elementos = mutableListOf<T>()
 
